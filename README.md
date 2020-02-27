@@ -142,3 +142,4 @@ NdefMessage和NdefRecord是Android NFC技术的核心类，无论读写NDEF格�
 * 此为本次测试所使用设备，手机：小米5  NFC标签卡：淘宝可购买
 
   ![](http://upload-images.jianshu.io/upload_images/5443336-35393841d4ae6d61.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  [![Run on Repl.it](https://repl.it/badge/github/RickyYu/Nfc-Android)](https://repl.it/github/RickyYu/Nfc-Android)
